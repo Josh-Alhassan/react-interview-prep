@@ -3,6 +3,7 @@ import Counter from './juniorPrep/Counter'
 import TodoApp from './juniorPrep/todoApp/TodoApp'
 import ValidationForm from './juniorPrep/validationForm/ValidationForm'
 import UserList from './juniorPrep/dynamicListRendering/UserList'
+import ToggleVisibility from './juniorPrep/toggleVisibility/ToggleVisibility'
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       <hr /> */}
       {/* <TodoApp /> */}
       {/* <ValidationForm /> */}
-      <UserList />
+      {/* <UserList /> */}
+      <ToggleVisibility />
     </>
   )
 }
