@@ -9,7 +9,7 @@ A simple yet fundamental React component that demonstrates **conditional renderi
 
 ## Live Demo  
 
-[Web Image](../../../public/Screenshot%202025-04-22%20154242.png) 
+![Web Image](../../../public/Screenshot%202025-04-22%20154242.png) 
 
 ## Installation  
 
