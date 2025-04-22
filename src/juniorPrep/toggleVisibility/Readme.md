@@ -15,7 +15,7 @@ A simple yet fundamental React component that demonstrates **conditional renderi
 
 1. Clone the repo:  
 ```bash
-git clone https://github.com/your-username/react-toggle-visibility.git
+git clone https://github.com/Josh-Alhassan/react-interview-prep/blob/main/src/juniorPrep/toggleVisibility/ToggleVisibility.jsx
 ```  
 
 2. Install dependencies:  
